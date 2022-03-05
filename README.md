@@ -16,10 +16,10 @@
   A PWA Text Editor that runs in the browser. Uses IndexedDB API and is deployed to HEROKU.
   
   ## Installation:
-  Once you have the code installed, you open a terminal and enter npm start which will activate the build and server openings. Alternatively you can use the HEROKU link to go to a webpage already deployed for the application.
+  You clone the code into your files and in the terminal run npm install for all your dependencies.
   
   ## Usage:
-  Use however you'd like
+  Once you have the code installed, you open a terminal and enter npm start which will activate the build and server openings. Alternatively you can use the HEROKU link to go to a webpage already deployed for the application.
 
   ## Licenses:
   MIT License
@@ -31,9 +31,11 @@
   
   ## Test:
   Same as use
- 
+  
   ## Questions:
   * Username: Jaaarsh
   * Github Account: https://github.com/Jaaarsh
   * Email: jjellisDEV@gmail.com
+
+Heroku Link: https://texteditor-jate.herokuapp.com/
   
